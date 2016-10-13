@@ -1,0 +1,30 @@
+hadd DYJetsLowMass.root /hdfs/local/lucia/PreselectedNtuples/DYJetsLowMass/*.root
+hadd DY1Jets.root /hdfs/local/lucia/PreselectedNtuples/DY1Jets/*.root
+hadd DY2Jets.root /hdfs/local/lucia/PreselectedNtuples/DY2Jets/*.root
+hadd DY3Jets.root /hdfs/local/lucia/PreselectedNtuples/DY3Jets/*.root
+hadd DY4Jets.root /hdfs/local/lucia/PreselectedNtuples/DY4Jets/*.root
+hadd EWKWMinus.root /hdfs/local/lucia/PreselectedNtuples/EWKWMinus/*.root
+hadd EWKWPlus.root /hdfs/local/lucia/PreselectedNtuples/EWKWPlus/*.root
+hadd EWKZToLL.root /hdfs/local/lucia/PreselectedNtuples/EWKZToLL/*.root
+hadd GluGluHToTauTau_M125.root /hdfs/local/lucia/PreselectedNtuples/GluGluHToTauTau_M125/*.root
+hadd VBFHToTauTau_M125.root /hdfs/local/lucia/PreselectedNtuples/VBFHToTauTau_M125/*.root
+hadd W1Jets.root /hdfs/local/lucia/PreselectedNtuples/W1Jets/*.root
+hadd W2Jets.root /hdfs/local/lucia/PreselectedNtuples/W2Jets/*.root
+hadd W3Jets.root /hdfs/local/lucia/PreselectedNtuples/W3Jets/*.root
+hadd W4Jets.root /hdfs/local/lucia/PreselectedNtuples/W4Jets/*.root
+hadd WJets.root /hdfs/local/lucia/PreselectedNtuples/WJets/*.root
+hadd WW.root /hdfs/local/lucia/PreselectedNtuples/WW/*.root
+hadd WZJets.root /hdfs/local/lucia/PreselectedNtuples/WZJets/*.root
+hadd WZTo1L1Nu2Q.root /hdfs/local/lucia/PreselectedNtuples/WZTo1L1Nu2Q/*.root
+hadd WZTo1L3Nu.root /hdfs/local/lucia/PreselectedNtuples/WZTo1L3Nu/*.root
+hadd WZTo2L2Q.root /hdfs/local/lucia/PreselectedNtuples/WZTo2L2Q/*.root
+hadd SingleMuon.root /hdfs/local/lucia/PreselectedNtuples/SingleMuon_Run2015C/*.root /hdfs/local/lucia/PreselectedNtuples/SingleMuon_Run2015D/*.root 
+hadd ST_tW_antitop.root /hdfs/local/lucia/PreselectedNtuples/ST_tW_antitop/*.root
+hadd ST_tW_top.root /hdfs/local/lucia/PreselectedNtuples/ST_tW_top/*.root
+hadd ST_t_antitop.root /hdfs/local/lucia/PreselectedNtuples/ST_t_antitop/*.root
+hadd ST_t_top.root /hdfs/local/lucia/PreselectedNtuples/ST_t_top/*.root
+hadd ZZTo2L2Q.root /hdfs/local/lucia/PreselectedNtuples/ZZTo2L2Q/*.root
+hadd ZZTo4L.root /hdfs/local/lucia/PreselectedNtuples/ZZTo4L/*.root
+#hadd DYJets.root /hdfs/local/lucia/PreselectedNtuples/DYJets/*.root
+#hadd TT.root /hdfs/local/lucia/PreselectedNtuples/TT/*.root
+

@@ -1,0 +1,3 @@
+sbatch --partition=short --output=/home/lucia/ZtautauXsection/CMSSW_7_6_3_patch2/src/ZmumuAnalysis/launchJobs/logs/WZTo1L1Nu2Q/log_35-%a.out /home/lucia/ZtautauXsection/CMSSW_7_6_3_patch2/src/ZmumuAnalysis/launchJobs/cfgs/WZTo1L1Nu2Q/cfg_35.sh
+sbatch --partition=short --output=/home/lucia/ZtautauXsection/CMSSW_7_6_3_patch2/src/ZmumuAnalysis/launchJobs/logs/WZTo1L1Nu2Q/log_39-%a.out /home/lucia/ZtautauXsection/CMSSW_7_6_3_patch2/src/ZmumuAnalysis/launchJobs/cfgs/WZTo1L1Nu2Q/cfg_39.sh
+sbatch --partition=short --output=/home/lucia/ZtautauXsection/CMSSW_7_6_3_patch2/src/ZmumuAnalysis/launchJobs/logs/WZTo1L1Nu2Q/log_28-%a.out /home/lucia/ZtautauXsection/CMSSW_7_6_3_patch2/src/ZmumuAnalysis/launchJobs/cfgs/WZTo1L1Nu2Q/cfg_28.sh
