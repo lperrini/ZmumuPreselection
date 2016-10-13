@@ -7,6 +7,7 @@ git clone https://github.com/lperrini/ZmumuPreselection.git
 
 ### how to run the preselection
 
+cd ZmumuAnalysis
 source Make.sh MuMu_Analysis.cc
 
 ### create the script for the main submission
